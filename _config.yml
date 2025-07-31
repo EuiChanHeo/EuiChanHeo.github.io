@@ -7,7 +7,7 @@ description: I am Euichan Heo, a Master Student at Pusan National University, Bu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://euichanheo.github.io" # the base hostname & protocol for your site
 logo: assets/images/favicon.png
-image: assets/images/og-pic.jpg
+image: assets/images/CAMEL_pic.jpg
 
 
 # Blog posts
